@@ -1,0 +1,14 @@
+C:\Users\zayts\Desktop\Lesson03\Cond1\bin\Debug\net8.0\Cond1.exe
+C:\Users\zayts\Desktop\Lesson03\Cond1\bin\Debug\net8.0\Cond1.deps.json
+C:\Users\zayts\Desktop\Lesson03\Cond1\bin\Debug\net8.0\Cond1.runtimeconfig.json
+C:\Users\zayts\Desktop\Lesson03\Cond1\bin\Debug\net8.0\Cond1.dll
+C:\Users\zayts\Desktop\Lesson03\Cond1\bin\Debug\net8.0\Cond1.pdb
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.AssemblyInfoInputs.cache
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.AssemblyInfo.cs
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.csproj.CoreCompileInputs.cache
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.dll
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\refint\Cond1.dll
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.pdb
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\Cond1.genruntimeconfig.cache
+C:\Users\zayts\Desktop\Lesson03\Cond1\obj\Debug\net8.0\ref\Cond1.dll

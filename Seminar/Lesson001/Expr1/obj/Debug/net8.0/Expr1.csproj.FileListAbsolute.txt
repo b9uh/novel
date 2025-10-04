@@ -1,0 +1,14 @@
+C:\Users\zayts\Desktop\Lesson01\Expr1\bin\Debug\net8.0\Expr1.exe
+C:\Users\zayts\Desktop\Lesson01\Expr1\bin\Debug\net8.0\Expr1.deps.json
+C:\Users\zayts\Desktop\Lesson01\Expr1\bin\Debug\net8.0\Expr1.runtimeconfig.json
+C:\Users\zayts\Desktop\Lesson01\Expr1\bin\Debug\net8.0\Expr1.dll
+C:\Users\zayts\Desktop\Lesson01\Expr1\bin\Debug\net8.0\Expr1.pdb
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.AssemblyInfoInputs.cache
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.AssemblyInfo.cs
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.csproj.CoreCompileInputs.cache
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.dll
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\refint\Expr1.dll
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.pdb
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\Expr1.genruntimeconfig.cache
+C:\Users\zayts\Desktop\Lesson01\Expr1\obj\Debug\net8.0\ref\Expr1.dll
